@@ -1,5 +1,5 @@
 ### Hello! 👋
-- My name is Jay (they/them) and I am a recent graduate from the University of Wisconsin - Madison with a Bachelor of Sciences in Computer Science with minors in Studio Art and Game Design.
+- My name is Jay (they/them) and I am a recent graduate from the University of Wisconsin - Madison with a Bachelor of Sciences in Computer Science and minors in Studio Art and Game Design.
 - So why should you hire me? Good question! I believe that I could bring a positive attitude, a desire to learn and grow, and applicable past experience coding to your company. 
 - I know it's cheesy to say, but I do love coding. There's something endlessly inspiring about the process of researching a problem, finding possible solutions, determining the best one, implementing said solution, then testing it to see if it works how you thought it would, and then starting all over again. The thrill of deploying a project to the public that I or my team have spent countless hours working on is something I can't find anywhere else.
 
